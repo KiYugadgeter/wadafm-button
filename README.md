@@ -1,2 +1,5 @@
-# wadafm_button
-Unofficial Wada.fm button
+# ﾜﾀﾞｴﾌｪ〜ﾑ
+- - -
+Wada.fmのジングルの「ﾜﾀﾞｴﾌｪ〜ﾑ」がいつでもきけるようになりました。
+大きなWada.fmの文字をクリックすると音がなります。
+

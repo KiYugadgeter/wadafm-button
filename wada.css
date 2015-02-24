@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+h1#wadafm {
+    display: block;
+    color: white;
+    width: 80%;
+    font-size: 20.5em;
+    text-shadow:
+        0 0 12px rgba(209, 92, 150, 1),
+        0 0 20px rgba(209, 92, 150, 1),
+        0 0 28px rgba(209, 92, 150, 1),
+        0 0 36px rgba(209, 92, 150, 1),
+        0 0 44px rgba(209, 92, 150, 1);
+}
+
+img#wadafm_artwork {
+    display: block;
+    height:1000px;
+    width: 1000px;
+}
+
+p#describe {
+    color: white;
+}
+
+a#forkme {
+    display: block;
+    margin-top: 0.25em;
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+    text-shadow: 
+        0 0 12px rgba(28, 169, 248, 1),
+        0 0 20px rgba(28, 169, 248, 1),
+        0 0 28px rgba(28, 169, 248, 1),
+        0 0 36px rgba(28, 169, 248, 1),
+        0 0 44px rgba(28, 169, 248, 1);
+
+}
