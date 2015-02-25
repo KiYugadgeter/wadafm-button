@@ -17,6 +17,10 @@ h1#wadafm {
         0 0 44px rgba(209, 92, 150, 1);
 }
 
+h1#wadafm:hover {
+    cursor: pointer;
+}
+
 img#wadafm_artwork {
     display: block;
     height:1000px;
