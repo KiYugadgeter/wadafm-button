@@ -17,7 +17,20 @@ h1#wadafm {
         0 0 44px rgba(209, 92, 150, 1);
 }
 
-h1#wadafm:hover {
+h1#todaysletter {
+    display: block;
+    color: white;
+    width: 80%;
+    font-size: 15.9em;
+    text-shadow:
+        0 0 12px rgba(249, 81, 65, 1),
+        0 0 20px rgba(249, 81, 65, 1),
+        0 0 28px rgba(249, 81, 65, 1),
+        0 0 36px rgba(249, 81, 65, 1),
+        0 0 44px rgba(249, 81, 65, 1);
+}
+
+h1:hover {
     cursor: pointer;
 }
 
@@ -59,3 +72,5 @@ a#se {
         0 0 36px rgba(105, 191, 116, 1),
         0 0 44px rgba(105, 191, 116, 1);
 
+
+}
